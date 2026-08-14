@@ -231,12 +231,7 @@ Indicators:
 - [ ] Add YARA rule scanning for file hashes
 - [ ] Build Tines/Splunk SOAR connector
 - [ ] Add PDF/HTML report generation
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
+<img width="1536" height="1024" alt="Soc Automation toolkit" src="https://github.com/user-attachments/assets/43860da4-110d-4c0b-a4c1-aaf6aef5c7e1" />
 
 ---
 
@@ -260,3 +255,8 @@ Building defensive capabilities for the NIS2 era. Passionate about blue-team ope
   <sub>⭐ If this project helped you, consider starring it!</sub>
 
 </div>
+---
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
