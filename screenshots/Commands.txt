@@ -1,0 +1,4 @@
+py -m pytest tests/ -v → 45 passed (shows testing discipline)
+py -m src.cli ioc-enrich 8.8.8.8 → Real API data (shows it actually works)
+py -m src.cli log-triage sample_logs/apache_access.log → Anomaly detection output
+py -m src.cli phishing-analyze sample_logs/sample.eml → SUSPICIOUS verdict

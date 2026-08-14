@@ -1,0 +1,14 @@
+From: Security Team <security@bankofamerica.com>
+Reply-To: security-alerts@b0famerica.xyz
+To: victim@company.com
+Subject: URGENT: Verify Your Account Immediately
+Date: Mon, 14 Aug 2026 09:00:00 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear Customer,</p>
+<p>Please <a href="https://b0famerica.xyz/login?session=abc123">verify your account</a>.</p>
+<p>Or use: http://192.168.133.7/secureportal</p>
+<p>Short link: https://bit.ly/3xAmP1e</p>
+</body></html>

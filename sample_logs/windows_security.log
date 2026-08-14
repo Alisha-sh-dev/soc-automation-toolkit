@@ -1,0 +1,20 @@
+2026-08-14T10:00:00,4624,Security,Successful login - user admin
+2026-08-14T10:01:00,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:05,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:10,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:15,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:20,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:25,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:30,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:35,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:40,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:01:45,4625,Security,Failed login - user admin from 10.0.0.50
+2026-08-14T10:02:00,4740,Security,Account lockout - user admin
+2026-08-14T10:05:00,4673,Security,Privileged service called
+2026-08-14T10:05:01,4673,Security,Privileged service called
+2026-08-14T10:05:02,4673,Security,Privileged service called
+2026-08-14T10:05:03,4673,Security,Privileged service called
+2026-08-14T10:05:04,4673,Security,Privileged service called
+2026-08-14T10:05:05,4673,Security,Privileged service called
+2026-08-14T10:10:00,4624,Security,Successful login - user jdoe
+2026-08-14T10:15:00,4624,Security,Successful login - user msmith

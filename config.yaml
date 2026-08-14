@@ -1,0 +1,45 @@
+# SOC Automation Toolkit - Configuration
+# Add your API keys below. Never commit this file with real keys to version control.
+
+apis:
+  virustotal:
+    api_key: "YOUR_VIRUSTOTAL_API_KEY"
+    base_url: "https://www.virustotal.com/api/v3"
+
+  abuseipdb:
+    api_key: "YOUR_ABUSEIPDB_API_KEY"
+    base_url: "https://api.abuseipdb.com/api/v2"
+
+  alienvault_otx:
+    api_key: "YOUR_OTX_API_KEY"
+    base_url: "https://otx.alienvault.com/api/v1"
+
+  urlhaus:
+    base_url: "https://urlhaus-api.abuse.ch/v1"
+
+  phishtank:
+    api_key: "YOUR_PHISHTANK_API_KEY"
+    base_url: "https://checkurl.phishtank.com/checkurl/"
+
+settings:
+  request_timeout: 30
+  max_retries: 3
+  retry_delay: 2
+
+  # Risk scoring thresholds
+  risk_thresholds:
+    low: 25
+    medium: 50
+    high: 75
+
+  # Log triage settings
+  log_triage:
+    failed_login_threshold: 5
+    not_found_threshold: 20
+    time_window_minutes: 10
+
+  # Output settings
+  output:
+    default_format: "json"
+    save_reports: true
+    reports_dir: "./reports"
